@@ -2,56 +2,49 @@
 
 ## Overview
 
-The goal of this project is to understand what has been the global impact of Covid-19. The project involved a meticulous process, from collecting to vastly exploring data that offer deep insights.
+This project primarily focuses on analyzing employee attrition within an organization. The objective is to identify patterns, trends, and potential factors contributing to employee turnover. By leveraging HR data and utilizing Power BI, the project aims to provide valuable insights to HR professionals, enabling them to make informed decisions and implement targeted strategies to reduce attrition rates.
 
 ## Data Sourcing
 
-The Covid Death and Vaccination data were extracted from https://ourworldindata.org/covid-deaths and explored using SQL.
+The HR Employee dataset was extracted from Kaggle, cleaned and transformed in Excel, visualized and analyzed using PowerBI.
 
 ## Tech Stack Used 
 
 ![image](https://github.com/avishajain99/PortfolioProject/assets/144373329/8e15da74-5f67-48c3-8b62-538fdd9d198a)
 ![image](https://github.com/avishajain99/Publicrepo/assets/144373329/99b15731-d2b9-4366-a090-b3804e5b6e44)
  
-## Skills showcased in this Project
+## Key steps involved in this Project 📝
 
-- Data Cleaning, Data Formatting and Data Transformation in Excel
-- Creating Tables in pgadmin to import the prepared data
-- Casting and Converting Data Types
-- Use of JOINS, Aggregate and Window Functions
-- Creating CTE's abd Temp Tables
-- Creating views to store data for visualizations later
+▪️ Data Collection
 
-## Project Guidance
+▪️ Data Preparation/Cleaning
 
-This project is completed with the help of [Alex Freberg](https://www.youtube.com/@AlexTheAnalyst)'s SQL Project YouTube Tutorial. I am grateful for his incredible mentorship and guidance throughout the project.
+▪️ Data Transformation
 
+▪️ Implementing Key Performance Indicators (KPIs) for Data Analysis in Power BI
 
-## Data Cleaning and Transformation
+▪️ Analysis and Visualization
 
-This stage began with creating two "Comma-Separated files" namely Covid Deaths and Covid Vaccinations having relevant and cleaned datasets. After this we import the data into "pgadmin" and start getting to explore the data.
-1.	Checking NULL values, blanks and Errors.
-2.	Removing duplicates, and irrelevant columns.
-3.	Made sure data is consistent and clean with respect to data type, data format and values used.
+## PowerBI Dashboard
+
+![image](https://github.com/avishajain99/Publicrepo/assets/144373329/1e3b0bb5-62eb-4044-899f-deb4ce286637)
 
 ## Key Insights 📈
 
-📌 Global Numbers : Covid-19 death percentage globally until March 2023 is 1.36%.
-   
-📌 Three locations with the highest Covid infection rate compared to the population:
+👉 Among the total 1470 employees, 237 (16.12%) of them are churned.
 
-   a) Cyprus- 72.81%
-   
-   b) San Marino- 70.23%
-   
-   c) Austria - 66.90% 
-   
-📌 Europe was the hardest hit being the only continent with over 2 million recorded deaths.
-   
-📌 Five countries with the highest death counts per population are: USA, Brazil, India, Russia, Mexico
+👉 The highest employee attrition occurs in the age groups of 18-30 and 30-40. This may suggest potential issues related to job satisfaction, career development, or workplace culture within these demographics, requiring attention and intervention to retain talent and maintain workforce stability.
 
-📌 Four countries with their maximum percentage of the population who are fully vaccinated until March 2023: Macau, Brunei, U.A.E., Qatar
+👉 A higher attrition rate among employees who frequently engage in business travel compared to those who don't travel or travel rarely. Possible contributing factors may include the stress and disruptions associated with frequent travel, necessitating a review of travel policies and employee support to enhance retention.
+
+👉 Research & Development and Sales department have higher employees attrition than HR department. Addressing potential factors such as intense competition in R&D, target-driven pressure in Sales, and distinct job satisfaction levels, is important for longer retention of employees.
+
+👉 Employees churn rate is consistently declining with the increase of percentage hike in salary, suggests that salary dissatisfaction may be a key driver of attrition. Employees may seek better compensation elsewhere, emphasizing the need to align salary structures with market standards to improve retention.
+
+👉 Male employees churned more compared to females. This observation requires a closer examination of factors influencing attrition, such as job satisfaction, career progression, or workplace policies, to implement targeted retention strategies and maintain a balanced workforce.
+
+These findings shed light on potential correlations between salary levels, years of experience, and attrition rates within the organization, necessitating a closer examination to discern underlying reasons and develop targeted retention strategies.
 
 ## End
    
-Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/avisha-jain-829bb0204/
+Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/avishajain99/

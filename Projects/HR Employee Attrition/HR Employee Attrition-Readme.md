@@ -1,4 +1,4 @@
-# 👨‍⚕️ COVID-19 Data Exploration Project 
+# HR Employee Attrition Analysis 
 
 ## Overview
 
@@ -11,8 +11,8 @@ The Covid Death and Vaccination data were extracted from https://ourworldindata.
 ## Tech Stack Used 
 
 ![image](https://github.com/avishajain99/PortfolioProject/assets/144373329/8e15da74-5f67-48c3-8b62-538fdd9d198a)
-![SQL](https://github.com/avishajain99/PortfolioProject/assets/144373329/241533a2-da0a-452f-83fb-4a57aade4979) 
-
+![image](https://github.com/avishajain99/Publicrepo/assets/144373329/99b15731-d2b9-4366-a090-b3804e5b6e44)
+ 
 ## Skills showcased in this Project
 
 - Data Cleaning, Data Formatting and Data Transformation in Excel

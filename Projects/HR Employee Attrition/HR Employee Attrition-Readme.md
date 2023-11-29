@@ -6,7 +6,11 @@ This project primarily focuses on analyzing employee attrition within an organiz
 
 ## Data Sourcing
 
-The HR Employee dataset was extracted from Kaggle, cleaned and transformed in Excel, visualized and analyzed using PowerBI.
+▪️ HR Employee dataset was extracted from Kaggle
+
+▪️ Cleaned and transformed in Excel
+
+▪️ Visualized and analyzed using PowerBI
 
 ## Tech Stack Used 
 
@@ -43,8 +47,8 @@ The HR Employee dataset was extracted from Kaggle, cleaned and transformed in Ex
 
 👉 Male employees churned more compared to females. This observation requires a closer examination of factors influencing attrition, such as job satisfaction, career progression, or workplace policies, to implement targeted retention strategies and maintain a balanced workforce.
 
-These findings shed light on potential correlations between salary levels, years of experience, and attrition rates within the organization, necessitating a closer examination to discern underlying reasons and develop targeted retention strategies.
+## 🚀 Conclusion
 
-## End
-   
+The comprehensive analysis conducted through Power BI offers valuable insights into various facets of employee attrition. These findings shed light on potential correlations between salary levels, age groups, and attrition rates within the organization, necessitating a closer examination to discern underlying reasons and develop targeted retention strategies.
+
 Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/avishajain99/

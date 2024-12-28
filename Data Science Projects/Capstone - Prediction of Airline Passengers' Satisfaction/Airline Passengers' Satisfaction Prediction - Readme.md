@@ -37,12 +37,11 @@ This dataset contains an airline passenger satisfaction survey. There are **25 f
 ## Key steps involved 📝
 ▪️ Data Preparation: Performed EDA to identify outliers, address missing values and examine correlations to uncover patterns among the variables
 
-▪️ Data Preprocessing - Performed feature scaling, encoding, and engineering to normalize data, handle categorical variables, and enhance model performance
+▪️ Data Preprocessing: Performed feature scaling, encoding, and engineering to normalize data, handle categorical variables, and enhance model performance
 
 ▪️ Dimensionality Reduction: Applied PCA (Principal Component Analysis) which showed 90% of variance is explained by the first 9 Principal Components
 
-▪️ Customer Segmentation: Segmented the customers using K-means clustering into 3 cohorts based on different satisfaction level 
-    categories
+▪️ Customer Segmentation: Segmented the customers using K-means clustering into 3 cohorts based on different satisfaction level categories
 
 ▪️ Predictive Modelling: Leveraged several supervised learning techniques including ensemble methods like Random Forest and XGBoost
 
